@@ -51,7 +51,6 @@ Caso algum desses critérios não seja atendido, a peça é classificada como **
 1. Baixe os arquivos do projeto
 2. Abra a pasta no VSCode ou no terminal
 3. Execute o arquivo:
-
 ProjetoUNIFECAF-ThiagoDinalli.py
 ---
 
