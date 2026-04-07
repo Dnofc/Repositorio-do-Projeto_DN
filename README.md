@@ -48,7 +48,7 @@ Caso algum desses critérios não seja atendido, a peça é classificada como **
 
 ### 🚀 Passo a passo
 
-1. Baixe o arquivo do projeto ou cole do repositório
+1. Baixe o arquivo do projeto ou copie e cole do repositório
 2. Abra a pasta no VSCode ou no terminal
 3. Execute o arquivo
 ---
